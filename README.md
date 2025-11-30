@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Laheem;Flutter+App+Developer+%F0%9F%93%B1;Frontend+Web+Developer+%F0%9F%8C%90;BS+Software+Engineering+%40+UCP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Hi+There!+%F0%9F%91%8B+I'm+Laheem;Flutter+App+Developer+%F0%9F%93%B1;Web+Developer+%F0%9F%8C%90;BS+Software+Engineering+%40+UCP" alt="Typing SVG" />
 
   <br/>
   <img src="README.assets/loading04.gif" width="150" alt="Coffee Loading" />
