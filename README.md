@@ -6,7 +6,7 @@
   <img src="README.assets/loading04.gif" width="150" alt="Coffee Loading" />
   <br/>
 
-  <h2 align="center">Turning Coffee ☕ into Code 💻</h2>
+  <h2 align="center">Turning Coffee ☕ into Code <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
   <p>
     <a href="https://linkedin.com/in/laheem-ayub-dev">
@@ -23,11 +23,11 @@
 
 ---
 
-### 👨‍💻 About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 Hi there! 👋 I’m **Muhammad Laheem**, a passionate **BS Software Engineering Student** at the **University of Central Punjab (UCP)**. I specialize in building smooth mobile apps using **Flutter** and responsive web interfaces using **React.js**.
-
-- 🎓 **Education:** BSSE Student @ UCP
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- 🎓 **Education:** BSSE Student @ UCP 
 - 📱 **Mobile Dev:** PSDF Certified Flutter Developer **(Secured 2nd Position 🥈)**
 - 💻 **Web Dev:** Certified Web Developer from UCP **(Secured 1st Position 🥇)**
 - 🚀 **Goal:** Seeking **Flutter Internships** or Part-Time Roles to build real-world solutions.
@@ -89,7 +89,7 @@ Here are the technical concepts and methodologies I work with:
 # 🔭Actions
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Laheem-Ayub&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=M-Laheem-Ayub&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
 <div align="center">
